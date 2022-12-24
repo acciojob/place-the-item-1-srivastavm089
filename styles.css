@@ -4,7 +4,7 @@ flex-direction: row;
 border: 1px solid rgb(123, 32, 32);
 width: 100vh;
 height: 50vh;
-gap: 20px;
+justify-content: space-between;
 }
 .holder .item{
    width: 100px;
